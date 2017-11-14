@@ -1,0 +1,18 @@
+.reveal section li{
+  font-size:24px;
+}
+
+#contact-info p {
+  text-align:left;
+  margin:0;
+}
+
+.reveal section .signature {
+  height:100%;
+}
+
+.signature {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
